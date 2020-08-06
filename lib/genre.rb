@@ -19,6 +19,6 @@ end
   
   def artists
     songs.map do |song|
-      
+      song.genre
   end 
 end 
