@@ -11,6 +11,6 @@ class Artist
   end 
   
   def songs 
-    
+    Song.
   end 
 end 
