@@ -18,6 +18,6 @@ end
   end 
   
   def artists
-    
+    genres.map
   end 
 end 
