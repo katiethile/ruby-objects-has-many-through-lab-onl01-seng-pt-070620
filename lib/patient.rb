@@ -20,3 +20,4 @@ class Patient
       appointment.patient == self
   end 
 end 
+end 
