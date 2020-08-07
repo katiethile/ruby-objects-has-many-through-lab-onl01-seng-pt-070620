@@ -23,5 +23,7 @@ end
 
   def doctors 
     Appointment.map do |appointment|
-      appointment
+      appointment.doctor
+    end 
+  end 
 end 
